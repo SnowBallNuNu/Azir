@@ -3,5 +3,5 @@
 ## Authors:
 1. Li, Yong Xin(*li.yongxin@foxmail.com*)
 2. Li, Zi Yan(*ziyan.li-cn@foxmail.com*)
-Notes:
-  * Please put your log file in the same folder as main.py
+## Attention:
+  * Please put your log file in the same folder as main.py.
